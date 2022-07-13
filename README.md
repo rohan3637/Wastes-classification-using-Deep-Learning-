@@ -66,10 +66,6 @@
 
 <br/>
 
-### Custom CNN
-
-<img align="center" src="https://user-images.githubusercontent.com/58647922/125158728-9ec23500-e190-11eb-852c-a22109f1edc8.png">
-
 </div>
 
 ## Equations
